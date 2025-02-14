@@ -3,7 +3,7 @@
 ### Accepted at VISAPP2025 (Oral presentation) 📈
 
 <div align="center">
-  [![Arxiv](https://img.shields.io/badge/Arxiv-2501.06769-red?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.06769)
+[![Arxiv](https://img.shields.io/badge/Arxiv-2501.06769-red?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.06769)
 </div>
 
 ## 📜 Model Pipeline
