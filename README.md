@@ -2,9 +2,8 @@
 
 <div align="center">
 
-[![CKAIA 2024](https://img.shields.io/badge/CKAIA%202024-Accepted-brightgreen)](YourConferenceLinkHere)&nbsp;
-[![Poster](https://img.shields.io/badge/Demo-Try%20it%20out-blue)](YourDemoLinkHere)&nbsp;
-[![Poster](https://img.shields.io/badge/CKAIA%202024-Poster-red)](YourDemoLinkHere)&nbsp;
+
+[![Arxiv](https://img.shields.io/badge/Demo-Try%20it%20out-blue)]([YourDemoLinkHere](https://arxiv.org/abs/2501.06769))&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/seohyun8825/ODPG_1?style=social)](https://github.com/seohyun8825/ODPG_1)
 
 </div>
