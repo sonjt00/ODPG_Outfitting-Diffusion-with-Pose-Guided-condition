@@ -3,7 +3,8 @@
 <div align="center">
 
 
-[![Arxiv](https://info.arxiv.org/brand/images/brand-logo-primary.jpg)](https://arxiv.org/abs/2501.06769)
+[![Arxiv](https://img.shields.io/badge/Arxiv-2501.06769-red?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.06769)
+
 
 </div>
 
