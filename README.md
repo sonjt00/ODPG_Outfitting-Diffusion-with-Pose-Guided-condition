@@ -3,7 +3,7 @@
 <div align="center">
 
 
-[![Arxiv](https://img.shields.io/badge/Arxiv)]([https://arxiv.org/abs/2501.06769])&nbsp;
+[![Arxiv](https://info.arxiv.org/brand/images/brand-logo-primary.jpg)](https://arxiv.org/abs/2501.06769)
 
 </div>
 
