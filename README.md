@@ -1,10 +1,10 @@
 # ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions🚀
 
-### Accepted at VISAPP2025 (Oral presentation) 📈
+###@ Accepted at VISAPP2025 (Oral presentation) 📈
 
-<div align="center">
+
 [![Arxiv](https://img.shields.io/badge/Arxiv-2501.06769-red?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.06769)
-</div>
+
 
 ## 📜 Model Pipeline
 Below is the pipeline of our model, detailing each step from input to output:
