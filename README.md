@@ -8,6 +8,11 @@
 
 </div>
 
+## 📜 Model Pipeline
+Below is the pipeline of our model, detailing each step from input to output:
+
+![pipeline_ODPG](https://github.com/seohyun8825/ODPG_1/assets/153355118/a4e2c20e-5a0c-4ab8-b9ea-c5de18c64d9e)
+
 <p align="center">
   <strong>Our model adapts to both pose and garment features, providing a high-quality virtual try-on experience.</strong>
   
@@ -17,10 +22,7 @@
   <img src="https://github.com/seohyun8825/ODPG_1/assets/153355118/da31df0c-4179-4a6e-a280-2500d0d003c9" width=95%>
 </p>
 
-## 📜 Model Pipeline
-Below is the pipeline of our model, detailing each step from input to output:
 
-![pipeline_ODPG](https://github.com/seohyun8825/ODPG_1/assets/153355118/a4e2c20e-5a0c-4ab8-b9ea-c5de18c64d9e)
 
 ## 📊 Qualitative Results
 Here are the results after 10 hours of training (20 epochs) using a single A100 GPU:
