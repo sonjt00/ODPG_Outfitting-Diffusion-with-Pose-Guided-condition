@@ -1,4 +1,4 @@
-# ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions🚀 & Accepted at CKAIA 2024📈
+# ODPG-Outfitting-Diffusion-with-Pose-Guided-conditions🚀 & Accepted at VISAPP2025 (Oral presentation) 📈
 
 <div align="center">
 
@@ -41,9 +41,9 @@ To prepare the "In-shop Clothes Retrieval Benchmark" dataset, follow these steps
 
 ## 📋 TODO
 
-- [ ] Checkpoint update
+- [] Checkpoint update
 - [ ] Training scripts with detailed usage instructions
-- [ ] Scripts for ablation studies
+- [x] Scripts for ablation studies
 - [ ] Demo
 - [x] ~~Model pipeline~~
 
